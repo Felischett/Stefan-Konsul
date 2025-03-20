@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hlavac-Konsul")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a08b5f6e11bae08ec4ad2e1745798939a657d02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hlavac-Konsul")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hlavac-Konsul")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
